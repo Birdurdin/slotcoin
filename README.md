@@ -1,2 +1,0 @@
-# slotcoin
-slotcoin
